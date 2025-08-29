@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Walid 👋 I'm a 🚀 Artificial Intelligence programmer 🚀 
 </p>
 
 <!--
@@ -11,16 +11,6 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
-## :memo: Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Veille Tech – Semaine 35](https://blog.darkwood.com/article/veille-tech-semaine-35)
-- [🤖 Panorama 2025 des plateformes freelances : 128 solutions pour trouver vos missions](https://blog.darkwood.com/article/panorama-2025-des-plateformes-freelances-128-solutions-pour-trouver-vos-missions)
-- [🖼️ Automatically remove the background from your images with Claude and RMBG](https://blog.darkwood.com/article/automatically-remove-the-background-from-your-images-with-claude-and-rmbg)
-- [💧Uniflow : retour sur 12 ans d’évolution et aperçu de la prochaine version](https://blog.darkwood.com/article/uniflow-retour-sur-12-ans-devolution-et-apercu-de-la-prochaine-version)
-- [🚀 Veille Tech – Semaine 34](https://blog.darkwood.com/article/veille-tech-semaine-34)
-<!-- BLOG-POST-LIST:END -->
-
 ## :link: Links
 
 <p align="center">
@@ -29,7 +19,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discord.gg/TDkvp3nn3j"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.youtube.com/user/matyo91"><img src="https:/img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
   <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
