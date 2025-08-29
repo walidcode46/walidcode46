@@ -14,7 +14,7 @@
 - 🧑‍💻 My name is **Walid**, an **AI Developer** from Morocco 🇲🇦  
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
 - 📈 Always learning and experimenting with **Deep Learning models**  
-- 🐧 Love working on **Linux & Python-based AI tools**  
+- 🐧 Love working on & Python-based AI tools**  
 
 ---
 
